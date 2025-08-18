@@ -1,4 +1,4 @@
-### Bloom Filters: Podcast Summary & Deep Dive
+### Bloom Filters: Summary & Deep Dive
 
 **Bloom filters** are ingenious probabilistic data structures designed to answer set membership queries efficiently: they allow you to quickly check whether an element is part of a set—but at the cost of trading perfect accuracy for massive space savings and speed.
 
